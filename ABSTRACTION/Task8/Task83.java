@@ -1,0 +1,16 @@
+package Task8;
+
+public class Task83 extends Task8{
+    Task83(int n){
+        super(n);
+    }
+    void m1(){
+        System.out.println("Task83,m1 method");
+    }
+    void m2(){
+        System.out.println("Task83,m2 method");
+    }
+    void m3(){
+        System.out.println("Task83,m3 method");
+    }
+}

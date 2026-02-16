@@ -1,0 +1,22 @@
+Create a java application where we have one abstract class which contains 2 abstract methods, inherit this class into a concrete class and provide functionality for these abstract methods and invoke all the properties under the main method by providing Dynamic inputs.
+
+
+Create a java application where we have one abstract class which contains 2 abstract methods and one defined method, inherit this class into a concrete class and provide functionality for these abstract methods and invoke all the properties under the main method by providing Dynamic inputs.
+
+
+Create a java application where we have one abstract class which contains 2 abstract methods one defined method and one parameterized constructor, inherit this class into a concrete class and provide functionality for these abstract methods and invoke all the properties under the main method by providing Dynamic inputs.
+
+
+Create a java application where we have one abstract class, it contains 2 abstract methods, and inherit this class into another abstract class that contains 2 more abstract methods, one defined method, and one parameterized constructor, then inherit this class into a concrete class, provide partial functionality for the first abstract class and complete functionality for second abstract class and then invoke all the properties under the main by providing dynamic inputs
+
+
+Create a java application where we have one concrete class, it contains one parameterized constructor and one defined method, inherit this class into an abstract class that contains one parameterized constructor, one defined method, and two abstract methods, and inherit this class into another concrete class to provide functionality and then invoke all the properties under main method by providing dynamic inputs.
+
+
+Create a java application where we have one abstract class, which contains one parameterized constructor, one defined method, and two abstract methods, we also have one concrete class which contains one defined method and one parameterized constructor, then inherit both these classes into another concrete class to provide functionality for abstract methods and invoke all the properties under main method by providing dynamic inputs.
+
+
+Create a java application where we have one abstract class which contains three abstract methods and one parameterized constructor, inherit this class into three different concrete classes, and provide functionalities for all abstract methods in each class. We also have one concrete class test which contains a method display with parameter as Abstract class object and returns Abstract class,  invoke this method under main with the appropriate object input as a parameter and then this method has to invoke all the abstract class’ properties with respect to the parameter passed statically.
+
+
+Create a java application where we have one abstract class which contains three abstract methods and one parameterized constructor, inherit this class into three different concrete classes, and provide functionalities for all abstract methods in each class. We also have one concrete class test which contains a method display with parameter and Abstract class object and returns Abstract class,  invoke this method under main with the appropriate object input as a parameter and then this method has to invoke all the abstract class’ properties with respect to the parameter passed Dynamically.

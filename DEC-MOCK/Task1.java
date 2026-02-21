@@ -1,4 +1,4 @@
-`class Task1{
+class Task1{
 	boolean m1(int a){
 		return a==2;
 	}

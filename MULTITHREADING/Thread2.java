@@ -1,6 +1,6 @@
-public class Thread1 extends Thread{
+public class Thread2 implements Runnable{
     public void run(){
-        for(int i=1;i<=10;i++){
+        for(int i=11;i<=20;i++){
             System.out.print(i+" ");
         }
     }
